@@ -1,0 +1,11 @@
+# Build artifacts
+/xwatch
+/xwatch-*
+*.exe
+hermes/xwatch-skill/scripts/xwatch
+
+# Cursor IDE
+.cursor/
+
+# macOS
+.DS_Store
